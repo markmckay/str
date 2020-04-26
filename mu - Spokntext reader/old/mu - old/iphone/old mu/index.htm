@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="apple-touch-icon" href="includes/icon.png" />
+<style type="text/css" media="screen">
+body {
+	margin: 0;
+	padding: 0;
+	background: #000;
+	overflow-x: hidden;
+	-webkit-user-select: none;
+	-webkit-text-size-adjust: none;
+}
+div, img, a {
+	margin: 0;
+	padding: 0;
+}
+div {
+	display: block;
+	height:480px;
+	overflow: hidden;
+}
+</style>
+<script type="text/javascript" src="includes/js/jquery.js"></script>
+<script type="text/javascript">
+
+function init() {
+   //Check if site is in fullscreen mode or still with browser menus
+   if ($(window).height() >= 480) {
+	   //load the content
+	   $.get("includes/functions.php", function(data){
+    		$("body").append(data);
+			//hide all screens
+			$('div').hide();
+			//show first screen
+			$('#index').show();
+			//Get the href attributes onclick and make them show the right container
+				$("area").click(function(){	
+					$divid = $(this).attr('href');					
+					$('div').hide();
+					$('#'+$divid).show();	
+					return false;
+				});
+		});
+	 } else {
+	//show instructions
+	alert("To use this prototype: \n 1. Click on the '+' button below \n 2. Select 'Add to homescreen'  \n 3. Click the icon on your homescreen");
+		//$('#instructions').show();   
+	}
+	
+	$('body').show();
+}
+
+$(document).ready(init);
+
+</script>
+<title>SpokenText iPhone</title>
+</head>
+<body style="display: none;">
+</body>
+</html>

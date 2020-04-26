@@ -1,0 +1,180 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1046" measuredH="762" mockupW="1023" mockupH="748">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="23" y="14" w="1023" h="748" measuredW="1023" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Split%20View%2C%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="320" y="0" w="703" h="748" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>13421772</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="320" h="748" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>13421772</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::List" x="4" y="38" w="311" h="704" measuredW="100" measuredH="286" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15658734</color>
+            <hrefs>%2Clibrary%26bm%3Blibrary.bmml%26bm%3Blibrary.bmml%26bm%3Blibrary.bmml%2C%2Ctags%26bm%3Btags.bmml%26bm%3Btags.bmml%26bm%3Btags.bmml%2C%2C%2C%2C</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%224%2C76%2C315%2C111%22%20href%3D%22library.bmml%22%20alt%3D%22library%22%20id%3D%2222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%224%2C146%2C315%2C181%22%20href%3D%22tags.bmml%22%20alt%3D%22tags%22%20id%3D%2222%22/%3E</map>
+            <rowHeight>35</rowHeight>
+            <size>14</size>
+            <text>SpokenText.net%0ALibrary%0ANotes%0ATags%0ASearch%0AHelp%0AOptions%0AAbout</text>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="320" h="45" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text>Menu</text>
+          </controlProperties>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::RoundButton" x="320" y="0" w="699" h="45" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="359" y="71" w="-1" h="-1" measuredW="163" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>War%20of%20the%20Worlds</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="364" y="94" w="113" h="-1" measuredW="100" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Lenght%3A%2004%3B01%3A02</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Image" x="360" y="124" w="663" h="29" measuredW="350" measuredH="34" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../iphone/assets/image-player2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::HRule" x="344" y="177" w="702" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="359" y="195" w="-1" h="-1" measuredW="105" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Art%20of%20Ware</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="364" y="218" w="113" h="-1" measuredW="100" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Lenght%3A%2001%3B25%3A02</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="360" y="248" w="663" h="29" measuredW="350" measuredH="34" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../iphone/assets/image-player2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::HRule" x="344" y="292" w="702" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Title" x="359" y="310" w="-1" h="-1" measuredW="217" measuredH="23" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>HTML%205%20for%20mobile%20apps</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="364" y="333" w="113" h="-1" measuredW="98" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Lenght%3A%2014%3B01%3A02</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Image" x="360" y="363" w="663" h="29" measuredW="350" measuredH="34" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../iphone/assets/image-player2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::RoundButton" x="344" y="14" w="702" h="45" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <borderColor>13421772</borderColor>
+        <color>14540253</color>
+        <shape>rectangle</shape>
+        <size>18</size>
+        <text>Library</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Icon" x="353" y="24" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="359" y="59" w="664" h="109" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>15658734</borderColor>
+        <color>15658734</color>
+        <href>player_horizontal_full_screen%20-%20with%20clip%20note_opt%26bm%3Bplayer_horizontal_full_screen%20-%20with%20clip%20note_opt.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20clip%20note_opt.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20clip%20note_opt.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22336%2C45%2C1000%2C154%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520clip%2520note_opt.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20clip%20note_opt%22%20id%3D%2249%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Canvas" x="359" y="177" w="664" h="109" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>15658734</borderColor>
+        <color>15658734</color>
+        <href>player_horizontal_full_screen%20-%20with%20text%20note%26bm%3Bplayer_horizontal_full_screen%20-%20with%20text%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20text%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20text%20note.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22336%2C163%2C1000%2C272%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520text%2520note.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20text%20note%22%20id%3D%2251%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Canvas" x="359" y="302" w="664" h="109" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>15658734</borderColor>
+        <color>15658734</color>
+        <href>player_horizontal_full_screen%20-%20with%20photo_note%26bm%3Bplayer_horizontal_full_screen%20-%20with%20photo_note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20photo_note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20photo_note.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22336%2C288%2C1000%2C397%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520photo_note.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20photo_note%22%20id%3D%2252%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Title" x="359" y="426" w="-1" h="-1" measuredW="179" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>How%20to%20win%20at%20poker</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="364" y="449" w="113" h="-1" measuredW="98" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Lenght%3A%2014%3B01%3A02</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="360" y="479" w="663" h="29" measuredW="350" measuredH="34" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../iphone/assets/image-player2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::HRule" x="344" y="411" w="702" h="-1" measuredW="100" measuredH="10" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Canvas" x="353" y="421" w="664" h="109" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>15658734</borderColor>
+        <color>15658734</color>
+        <href>player_horizontal_full_screen%20-%20with%20voice%20note%26bm%3Bplayer_horizontal_full_screen%20-%20with%20voice%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20voice%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20voice%20note.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22330%2C407%2C994%2C516%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520voice%2520note.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20voice%20note%22%20id%3D%2258%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

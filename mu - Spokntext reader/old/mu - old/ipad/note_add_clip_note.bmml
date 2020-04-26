@@ -1,0 +1,259 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1000" measuredH="729" mockupW="795" mockupH="693">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="205" y="36" w="416" h="693" measuredW="416" measuredH="693" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="9" controlTypeID="__group__" x="0" y="0" w="416" h="693" measuredW="416" measuredH="693" zOrder="0" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="192" y="0" w="34" h="19" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <align>left</align>
+                <borderColor>10066329</borderColor>
+                <color>10066329</color>
+                <shape>triangle</shape>
+                <size>14</size>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="17" w="416" h="283" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+                <color>15658734</color>
+                <shape>roundRect</shape>
+                <size>14</size>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="3" y="19" w="411" h="674" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>10066329</borderColor>
+                <color>10066329</color>
+                <shape>roundRect</shape>
+                <size>14</size>
+                <text>Add%20note</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="29" w="227" h="-1" measuredW="112" measuredH="26" zOrder="3" locked="false" isInGroup="9">
+              <controlProperties>
+                <size>18</size>
+                <text>Add%20Clip%20Note</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="__group__" x="0" y="62" w="416" h="617" measuredW="416" measuredH="617" zOrder="4" locked="false" isInGroup="9">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="416" h="592" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+                  <controlProperties>
+                    <borderColor>15658734</borderColor>
+                    <color>15658734</color>
+                    <shape>rectangle</shape>
+                    <size>14</size>
+                    <text/>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="136" w="416" h="481" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="4">
+                  <controlProperties>
+                    <borderColor>15658734</borderColor>
+                    <color>15658734</color>
+                    <shape>roundRect</shape>
+                    <size>14</size>
+                    <text/>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="223" y="316" w="373" h="206" measuredW="159" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Photo%2C%20Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="224" y="174" w="113" h="-1" measuredW="36" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="224" y="225" w="113" h="-1" measuredW="27" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Text</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="224" y="246" w="355" h="55" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="241" y="528" w="113" h="-1" measuredW="29" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Tags</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="241" y="547" w="363" h="-1" measuredW="205" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5900%2C%20assignment%201%2C%20good%20quote</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::PointyButton" x="523" y="65" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <href>player_horizontal_full_screen%20-%20with%20clip%20note_opt%26bm%3Bplayer_horizontal_full_screen%20-%20with%20clip%20note_opt.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20clip%20note_opt.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20clip%20note_opt.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22318%2C29%2C399%2C56%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520clip%2520note_opt.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20clip%20note_opt%22%20id%3D%227%22/%3E</map>
+        <text>Save%20Note</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::PointyButton" x="260" y="583" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <state>disabled</state>
+        <text>5900</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="317" y="583" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>good%20point</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="404" y="583" w="-1" h="-1" measuredW="101" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>need%20to%20study</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="572" y="607" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="603" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>GtIcon%7Csmall</icon>
+        <rotation>180</rotation>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="223" y="196" w="349" h="-1" measuredW="149" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pull%20quote%20from%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::PointyButton" x="221" y="146" w="-1" h="-1" measuredW="73" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <direction>center</direction>
+        <text>Play%20Clip</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="221" y="111" w="367" h="29" measuredW="350" measuredH="34" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../iphone/assets/image-player2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="296" y="146" w="145" h="28" measuredW="145" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="54" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="52" h="-1" measuredW="16" measuredH="28" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <icon>RedoIcon%7Cxsmall</icon>
+            <size>10</size>
+            <text>-15</text>
+          </controlProperties>
+        </control>
+        <control controlID="64" controlTypeID="com.balsamiq.mockups::IconLabel" x="43" y="0" w="52" h="-1" measuredW="19" measuredH="28" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <icon>RightTriangleIcon%7Cxsmall</icon>
+            <size>10</size>
+            <text>Play</text>
+          </controlProperties>
+        </control>
+        <control controlID="66" controlTypeID="com.balsamiq.mockups::IconLabel" x="85" y="0" w="60" h="-1" measuredW="16" measuredH="28" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <icon>UndoIcon%7Cxsmall</icon>
+            <size>10</size>
+            <text>+15</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::PointyButton" x="268" y="617" w="-1" h="-1" measuredW="93" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>use%20in%20paper</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::PointyButton" x="367" y="619" w="-1" h="-1" measuredW="114" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>review%20for%20exam</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::PointyButton" x="493" y="617" w="60" h="-1" measuredW="59" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>games</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="232" y="357" w="347" h="150" measuredW="640" measuredH="289" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/note_record_voice.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::PointyButton" x="443" y="148" w="-1" h="-1" measuredW="43" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <text>%3C%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::PointyButton" x="551" y="148" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Out%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::PointyButton" x="495" y="148" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>note_add_clip_note%26bm%3Bnote_add_clip_note.bmml%26bm%3Bnote_add_clip_note.bmml%26bm%3Bnote_add_clip_note.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22290%2C112%2C339%2C139%22%20href%3D%22note_add_clip_note.bmml%22%20alt%3D%22note_add_clip_note%22%20id%3D%2223%22/%3E</map>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::TabBar" x="627" y="316" w="373" h="287" measuredW="159" measuredH="100" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Photo%2C%20Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::PointyButton" x="647" y="357" w="275" h="-1" measuredW="122" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <text>Take%20Photo/Video</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Image" x="642" y="394" w="304" h="198" measuredW="400" measuredH="214" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../iphone/assets/example_mind-map_image.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::TabBar" x="223" y="316" w="373" h="206" measuredW="159" measuredH="100" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Photo%2C%20Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="232" y="357" w="347" h="150" measuredW="640" measuredH="289" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/note_record_voice.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

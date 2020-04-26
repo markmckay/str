@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="790" measuredH="571" mockupW="770" mockupH="553">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="20" y="18" w="770" h="553" measuredW="770" measuredH="553" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="2">
+          <text>Add%20User</text>
+        </override>
+        <src>./assets/main_template.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="52" y="261" w="-1" h="-1" measuredW="177" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20address%20of%20users%20to%20add</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="54" y="284" w="200" h="156" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>bob@bob.com%0ATom@tom.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="55" y="496" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TabBar" x="39" y="174" w="612" h="366" measuredW="185" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Individually%2C%20Bulk</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="278" y="215" w="-1" h="-1" measuredW="75" measuredH="16" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Instructions</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="278" y="238" w="200" h="153" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Copy%20and%20paste%20a%20list%20of%20email%20address%20for%20accounts%20you%20would%20like%20to%20create..%20%20Then%20press%20the%20Add%20button.%0A%20%0AWe%20will%20then%20send%20an%20account%20creation%20email%20to%20each%20address%20with%20a%20link%20to%20create%20a%20new%20useranme%20and%20password</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="57" y="444" w="307" h="22" measuredW="295" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Automaticlly%20create%20usernames%20and%20passwords</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="94" y="210" w="-1" h="-1" measuredW="77" measuredH="46" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Student%0AAuthor</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="51" y="210" w="-1" h="-1" measuredW="30" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::CheckBox" x="58" y="466" w="278" h="22" measuredW="278" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20student%20new%20username%20and%20password</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

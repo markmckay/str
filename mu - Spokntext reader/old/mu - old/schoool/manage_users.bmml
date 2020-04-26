@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="812" measuredH="562" mockupW="770" mockupH="553">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="53" y="196" w="743" h="145" measuredW="369" measuredH="141" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C%20Username%2C%20Role%2C%20Storage%20Used%2C%20Status%0A%5B%5D%2C%20mckaym%2C%20Author%2C%20%201GB%20%2C%20Active%2C%20Edit%0A%5B%5D%2C%20jasons%2C%20Author%2C%205GB%20%2C%20Inactive%2C%20Edit%0A%5B%5D%2C%20teaganm%2C%20Student%2C%206GB%2C%20%20Active%2C%20Edit%0A%5B%5D%2C%20averym%2C%20Student%2C%206GB%2C%20%20Invite%20sent%2C%20Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="42" y="9" w="770" h="553" measuredW="770" measuredH="553" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <override controlID="2">
+          <text>Manage%20Users</text>
+        </override>
+        <src>./assets/main_template.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="53" y="168" w="-1" h="-1" measuredW="56" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20User</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="126" y="168" w="-1" h="-1" measuredW="402" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Delete%2C%20All%2C%20%20None%2C%20Activate%2C%20Inactivate%2C%20Delete%20Used%20Space</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::LinkBar" x="53" y="354" w="-1" h="-1" measuredW="171" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Previous%2C%20%20Next%20%2C%201%202%203%204%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="242" y="349" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="286" y="349" w="-1" h="-1" measuredW="103" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>25%20per%20page</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SearchBox" x="677" y="166" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="7" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

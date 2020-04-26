@@ -1,0 +1,280 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1046" measuredH="762" mockupW="1023" mockupH="748">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="23" y="14" w="1023" h="748" measuredW="1023" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Split%20View%2C%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1023" h="748" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>13421772</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="320" h="45" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::RoundButton" x="284" y="0" w="735" h="45" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Title" x="464" y="13" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <bold>true</bold>
+            <size>18</size>
+            <text>Player</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="39" y="67" w="-1" h="-1" measuredW="163" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>War%20of%20the%20Worlds</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="44" y="90" w="113" h="-1" measuredW="100" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>Lenght%3A%2004%3B01%3A02</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::PointyButton" x="737" y="120" w="-1" h="-1" measuredW="43" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>left</direction>
+        <text>%3C%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::PointyButton" x="938" y="120" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Out%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="799" y="120" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>note_add_clip_note%26bm%3Bnote_add_clip_note.bmml%26bm%3Bnote_add_clip_note.bmml%26bm%3Bnote_add_clip_note.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22776%2C106%2C825%2C133%22%20href%3D%22note_add_clip_note.bmml%22%20alt%3D%22note_add_clip_note%22%20id%3D%229%22/%3E</map>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="871" y="120" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <direction>center</direction>
+        <text>Play</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="51" y="625" w="727" h="123" measuredW="59" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text>Swipe</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Image" x="40" y="124" w="663" h="39" measuredW="350" measuredH="34" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../iphone/assets/image-player2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Icon" x="41" y="25" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::PointyButton" x="953" y="22" w="-1" h="-1" measuredW="73" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>note_add_clip_note%26bm%3Bnote_add_clip_note.bmml%26bm%3Bnote_add_clip_note.bmml%26bm%3Bnote_add_clip_note.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22930%2C8%2C1003%2C35%22%20href%3D%22note_add_clip_note.bmml%22%20alt%3D%22note_add_clip_note%22%20id%3D%2245%22/%3E</map>
+        <text>Add%20Note</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Title" x="740" y="89" w="217" h="-1" measuredW="84" measuredH="23" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Clip%20Note</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::HRule" x="737" y="109" w="270" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="113" controlTypeID="__group__" x="938" y="662" w="50" h="49" measuredW="50" measuredH="49" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="46" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="113">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>1644825</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="2" y="8" w="48" h="-1" measuredW="24" measuredH="36" zOrder="1" locked="false" isInGroup="113">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>UndoIcon%7Csmall</icon>
+            <size>10</size>
+            <text>+15</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="114" controlTypeID="__group__" x="849" y="662" w="47" h="49" measuredW="47" measuredH="49" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="1" y="0" w="46" h="49" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="114">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>1644825</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="6" w="44" h="-1" measuredW="24" measuredH="36" zOrder="1" locked="false" isInGroup="114">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>RedoIcon%7Csmall</icon>
+            <size>10</size>
+            <text>-15</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::PointyButton" x="871" y="24" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="__group__" x="42" y="180" w="990" h="441" measuredW="990" measuredH="441" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="4" y="1" w="-1" h="-1" measuredW="54" measuredH="23" zOrder="0" locked="false" isInGroup="117">
+          <controlProperties>
+            <size>20</size>
+            <text>Notes</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::VRule" x="319" y="5" w="-1" h="434" measuredW="10" measuredH="100" zOrder="1" locked="false" isInGroup="117"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="336" y="67" w="259" h="-1" measuredW="36" measuredH="21" zOrder="2" locked="false" isInGroup="117">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Name</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="336" y="90" w="259" h="-1" measuredW="190" measuredH="21" zOrder="3" locked="false" isInGroup="117">
+          <controlProperties>
+            <bold>false</bold>
+            <text>Only%20use%20cookies%20to%20make%20bread</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="336" y="117" w="259" h="-1" measuredW="27" measuredH="21" zOrder="4" locked="false" isInGroup="117">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Text</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="331" y="195" w="259" h="-1" measuredW="71" measuredH="21" zOrder="5" locked="false" isInGroup="117">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Point%20Taken</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="332" y="214" w="259" h="-1" measuredW="52" measuredH="21" zOrder="6" locked="false" isInGroup="117">
+          <controlProperties>
+            <bold>false</bold>
+            <text>%5B02%3A11%3A02%20%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="336" y="144" w="229" h="49" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="117">
+          <controlProperties>
+            <text>Cookies%20make%20good%20bread%20flour%20when%20you%20are%20trying%20to%20make%20really%20tastey%20bread</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="335" y="249" w="259" h="-1" measuredW="29" measuredH="21" zOrder="8" locked="false" isInGroup="117">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Tags</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::SearchBox" x="89" y="0" w="209" h="-1" measuredW="120" measuredH="25" zOrder="9" locked="false" isInGroup="117"/>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::PointyButton" x="916" y="24" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="10" locked="false" isInGroup="117">
+          <controlProperties>
+            <color>16777215</color>
+            <direction>center</direction>
+            <href>recording%26bm%3Brecording.bmml%26bm%3Brecording.bmml%26bm%3Brecording.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22935%2C190%2C1009%2C217%22%20href%3D%22recording.bmml%22%20alt%3D%22recording%22%20id%3D%2211%22/%3E</map>
+            <text>Edit%20Note</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::LinkBar" x="335" y="273" w="-1" h="-1" measuredW="167" measuredH="19" zOrder="11" locked="false" isInGroup="117">
+          <controlProperties>
+            <hrefs>tags%26bm%3Btags.bmml%26bm%3Btags.bmml%26bm%3Btags.bmml%2C</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22354%2C441%2C418%2C454%22%20href%3D%22tags.bmml%22%20alt%3D%22tags%22%20id%3D%2212%22/%3E</map>
+            <text>Good%20point%2C%20Need%20to%20Study</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::PointyButton" x="806" y="24" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="12" locked="false" isInGroup="117">
+          <controlProperties>
+            <color>16777215</color>
+            <direction>center</direction>
+            <href>recording%26bm%3Brecording.bmml%26bm%3Brecording.bmml%26bm%3Brecording.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22825%2C190%2C915%2C217%22%20href%3D%22recording.bmml%22%20alt%3D%22recording%22%20id%3D%2213%22/%3E</map>
+            <text>Delete%20Note</text>
+          </controlProperties>
+        </control>
+        <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="620" y="67" w="259" h="-1" measuredW="43" measuredH="21" zOrder="13" locked="false" isInGroup="117">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Photos</text>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::Image" x="619" y="91" w="292" h="150" measuredW="400" measuredH="214" zOrder="14" locked="false" isInGroup="117">
+          <controlProperties>
+            <src>../iphone/assets/example_mind-map_image.png</src>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::HRule" x="319" y="7" w="661" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="117"/>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="431" w="990" h="-1" measuredW="100" measuredH="10" zOrder="16" locked="false" isInGroup="117"/>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="0" y="32" w="307" h="-1" measuredW="215" measuredH="166" zOrder="17" locked="false" isInGroup="117">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <hrefs>player_horizontal_full_screen%20-%20with%20text%20note%26bm%3Bplayer_horizontal_full_screen%20-%20with%20text%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20text%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20text%20note.bmml%2Cplayer_horizontal_full_screen%20-%20with%20photo_note%26bm%3Bplayer_horizontal_full_screen%20-%20with%20photo_note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20photo_note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20photo_note.bmml%2Cplayer_horizontal_full_screen%20-%20with%20voice%20note%26bm%3Bplayer_horizontal_full_screen%20-%20with%20voice%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20voice%20note.bmml%26bm%3Bplayer_horizontal_full_screen%20-%20with%20voice%20note.bmml</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2219%2C203%2C326%2C250%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520text%2520note.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20text%20note%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2219%2C250%2C326%2C312%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520photo_note.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20photo_note%22%20id%3D%2225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2219%2C312%2C326%2C359%22%20href%3D%22player_horizontal_full_screen%2520-%2520with%2520voice%2520note.bmml%22%20alt%3D%22player_horizontal_full_screen%20-%20with%20voice%20note%22%20id%3D%2225%22/%3E</map>
+            <text>*02%3A25%3A02*%20%5Cn%20Point%20Taken%3A%20%5B02%3A25%3A02%5D%20%5Cn%20Tags%3A%20%5B5900%5D%5C%2C%20%5Bquote%5D%20%2C%20%3E%0A*Only%20use%20cookies%20to%20make%20bread*%20%5Cn%20Text%3A%20Cookies%20make%20good%20bread%20flour%20...%20%5Cn%20Point%20Taken%3A%20%5B02%3A11%3A02%5D%20%5Cn%20Tags%3A%20%5BGood%20point%5D%20%5C%2C%20%5BNeed%20to%20Study%5D%20%2C%20%3E%0A*Interesting%20quote*%20%5Cn%20Text%3A%20a%20great%20note...%20%5Cn%20Point%20Taken%3A%20%5B01%3A01%3A02%5D%20%2C%20%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::PointyButton" x="87" y="24" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <href>library%26bm%3Blibrary.bmml%26bm%3Blibrary.bmml%26bm%3Blibrary.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2264%2C10%2C124%2C37%22%20href%3D%22library.bmml%22%20alt%3D%22library%22%20id%3D%22119%22/%3E</map>
+        <text>Library</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::PointyButton" x="163" y="24" w="-1" h="-1" measuredW="28" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>%3C</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::PointyButton" x="201" y="24" w="-1" h="-1" measuredW="29" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>center</direction>
+        <text>%3E</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

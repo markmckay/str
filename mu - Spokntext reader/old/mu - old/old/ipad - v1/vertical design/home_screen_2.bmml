@@ -1,0 +1,56 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1046" measuredH="762" mockupW="1023" mockupH="748">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="23" y="14" w="1023" h="748" measuredW="1023" measuredH="748" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPad%20Split%20View%2C%20Landscape</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="320" y="0" w="703" h="748" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>13421772</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="320" h="748" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>13421772</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15132390</color>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::List" x="4" y="38" w="311" h="704" measuredW="100" measuredH="146" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15658734</color>
+            <rowHeight>35</rowHeight>
+            <size>14</size>
+            <text>War%20of%20the%20worlds%20%5Cr%2004%3A25%3A02%20%5Cn%20Notes%3A%205%20%20%20%0AArt%20of%20war%20%5Cn%2001%3A25%3A02%20%20%0AHTML%205%20for%20mobile%20apps%20%5Cn%2010%3A25%3A02%0A%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="320" h="45" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text>Library</text>
+          </controlProperties>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::RoundButton" x="320" y="0" w="699" h="45" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>13421772</borderColor>
+            <color>14540253</color>
+            <shape>rectangle</shape>
+            <size>18</size>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

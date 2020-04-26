@@ -1,0 +1,138 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="824" measuredH="641" mockupW="764" mockupH="621">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="72" y="84" w="-1" h="-1" measuredW="35" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <icon>ReloadIcon%7Cxsmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="542" y="171" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Friends</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="555" y="449" w="-1" h="-1" measuredW="47" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>EmailIcon%7Cxsmall</icon>
+        <size>10</size>
+        <text>Messages</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="600" y="449" w="-1" h="-1" measuredW="42" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>StarIcon%7Cxsmall</icon>
+        <size>10</size>
+        <text>Favorites</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="645" y="449" w="-1" h="-1" measuredW="32" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>SearchIcon%7Cxsmall</icon>
+        <size>10</size>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="62" y="75" w="320" h="44" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>1644825</color>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="60" y="20" w="-1" h="-1" measuredW="302" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SpokenText%20%20Tab</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="65" y="117" w="318" h="-1" measuredW="215" measuredH="180" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hrefs>recording%26bm%3Brecording.bmml%26bm%3Brecording.bmml%26bm%3Brecording.bmml%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%225%2C102%2C323%2C149%22%20href%3D%22recording.bmml%22%20alt%3D%22recording%22%20id%3D%2212%22/%3E</map>
+        <text>War%20of%20The%20Worlds%20%5Cn%2004%3A25%3A02%20%5Cn%20Status%3A%20Finished%20%20%2C%20%20%3E%20%20%0AArt%20of%20war%20%5Cn%2001%3A25%3A02%20%5Cn%20Status%3A%20Creating%20MP3%20file%20%20%0AHTML%205%20for%20mobile%20apps%20%5Cn%2010%3A25%3A02%20%5Cn%20Status%3A%20Finished%2C%20%20%3E%20%0A%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="__group__" x="63" y="73" w="320" h="568" measuredW="320" measuredH="568" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <controlName>iPhone%205%20Viewport</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="320" h="568" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="15">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderColor>3355443</borderColor>
+            <borderStyle>square</borderStyle>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Title" x="183" y="89" w="-1" h="-1" measuredW="75" measuredH="17" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>14</size>
+        <text>SpokenText</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::PointyButton" x="333" y="82" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>center</direction>
+        <text>New</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="104" y="216" w="278" h="57" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderColor>2848996</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Component" x="64" y="590" w="319" h="50" measuredW="319" measuredH="50" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="1" y="0" w="318" h="50"/>
+        <override controlID="1" x="0" y="2" w="312" h="48"/>
+        <override controlID="0:0" x="0" y="0" w="318" h="50"/>
+        <override controlID="1:54" x="1" y="8" w="59" h="-1">
+          <color>16777215</color>
+          <icon>DeliciousIcon%7Cxsmall</icon>
+          <text>SpokenText</text>
+        </override>
+        <override controlID="1:67" x="130" y="8" w="69" h="-1">
+          <color>16777215</color>
+          <icon>SearchIcon%7Cxsmall</icon>
+          <labelPosition>bottom</labelPosition>
+        </override>
+        <override controlID="0:1" x="0" y="0" w="318" h="25"/>
+        <override controlID="1:58" x="0" y="0" w="63" h="48"/>
+        <override controlID="1:64" x="72" y="8" w="59" h="-1">
+          <color>16777215</color>
+          <icon>BookIcon%7Cxsmall</icon>
+          <labelPosition>bottom</labelPosition>
+        </override>
+        <override controlID="1:66" x="189" y="7" w="69" h="-1">
+          <color>16777215</color>
+          <icon>TextAlignCenterIcon%7Cxsmall</icon>
+        </override>
+        <override controlID="1:65" x="251" y="3" w="61" h="-1">
+          <icon>EllipsisIcon%7Cxsmall</icon>
+          <labelPosition>bottom</labelPosition>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/main_nav_bar.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::StickyNote" x="418" y="50" w="406" h="384" measuredW="109" measuredH="123" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>SpokenText%20Tab%0A%20%0AThis%20tab%20lists%20all%20the%20files%20you%20currently%20have%20on%20SpokenText.net%0A%20%0AYou%20can%20only%20listen%20to%20and%20create%20new%20files%20from%20this%20page.%20%20You%20can%20not%20create%20notes.%0A%20%20%0ANew%0AThis%20lets%20you%20create%20new%20recordings%20from%20text%2C%20you%20copy%20and%20paste%20into%20the%20application%20or%20via%20URL%27s%20for%20online%20%20web%20pages%20and%20documents.%0A%20%0AReload%20button%20%28circle%20arrow%20in%20top%20left%29%0ARefreshes%20the%20list%20of%20recordings.%0A%20%0ATapping%20a%20row%20loads%20the%20recording%20in%20the%20player.%0A%20%0AThe%20blue%20bar%20shows%20the%20amount%20of%20time%20left%20to%20be%20listened%20to.%0A%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

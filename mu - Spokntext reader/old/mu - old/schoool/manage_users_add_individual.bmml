@@ -1,0 +1,60 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="790" measuredH="571" mockupW="770" mockupH="553">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="20" y="18" w="770" h="553" measuredW="770" measuredH="553" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="2">
+          <text>Add%20User</text>
+        </override>
+        <src>./assets/main_template.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="49" y="470" w="-1" h="-1" measuredW="45" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TabBar" x="39" y="174" w="612" h="338" measuredW="185" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Individually%2C%20Bulk</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="49" y="260" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="49" y="281" w="188" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="49" y="315" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="49" y="336" w="188" h="-1" measuredW="100" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>xKLJLJsflsiek</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="49" y="371" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="49" y="392" w="188" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::CheckBox" x="52" y="433" w="-1" h="-1" measuredW="278" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20student%20new%20username%20and%20password</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::ComboBox" x="94" y="210" w="-1" h="-1" measuredW="77" measuredH="46" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Student%0AAuthor</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="51" y="210" w="-1" h="-1" measuredW="30" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

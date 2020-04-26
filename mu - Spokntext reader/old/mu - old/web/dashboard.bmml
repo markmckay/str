@@ -1,0 +1,83 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1015" measuredH="577" mockupW="996" mockupH="553">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="32" y="116" w="212" h="-1" measuredW="69" measuredH="17" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>14</size>
+        <text>Dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="19" y="24" w="996" h="553" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="32" y="133" w="983" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::DataGrid" x="236" y="199" w="755" h="111" measuredW="571" measuredH="111" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C%20Name%2C%20Lenght%2C%20Download%2C%20Save%20To%2C%20Status%2C%20%0A%5B%5D%2C%20A%20history%20of%20magic%2C%201%3A15%3A15%2C%20Single%20MP3%2C%20Pick%20location%2C%20Finished%2C%20%20%2C%20Notes%0A%5B%5D%2C%20How%20to%20turn%20iron%20into%20gold%2C%200%3A15%3A15%2C%20Single%20MP3%2C%20Pick%20location%2C%20Finished%2C%20%20Listen%20%2C%20Notes%0A%5B%5D%2C%20The%20history%20of%20the%20world%2C%200%3A05%3A15%2C%20Single%20MP3%2C%20Pick%20location%2C%20Finished%2C%20Listen%2C%20Notes</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::LinkBar" x="236" y="175" w="-1" h="-1" measuredW="205" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Delete%2C%20Select%20All%2C%20Select%20None</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::LinkBar" x="798" y="315" w="-1" h="-1" measuredW="171" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Previous%2C%20%20Next%20%2C%201%202%203%204%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="38" y="33" w="125" h="61" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::HRule" x="32" y="97" w="941" h="-1" measuredW="100" measuredH="10" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::LinkBar" x="832" y="71" w="-1" h="-1" measuredW="141" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Account%2C%20Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::HSplitter" x="201" y="145" w="-1" h="425" measuredW="11" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Link" x="32" y="147" w="-1" h="-1" measuredW="105" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>new%20recording%20-%20enter%20text%26bm%3Bnew%20recording%20-%20enter%20text.bmml%26bm%3Bnew%20recording%20-%20enter%20text.bmml%26bm%3Bnew%20recording%20-%20enter%20text.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2213%2C123%2C118%2C142%22%20href%3D%22new%2520recording%2520-%2520enter%2520text.bmml%22%20alt%3D%22new%20recording%20-%20enter%20text%22%20id%3D%2242%22/%3E</map>
+        <text>Create%20Recording</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="999" y="147" w="-1" h="425" measuredW="16" measuredH="100" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::List" x="32" y="193" w="-1" h="-1" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5900%0A5900%20as1%0A5402%0AGame%20Theory%20Paper</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Title" x="32" y="176" w="78" h="-1" measuredW="32" measuredH="17" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>14</size>
+        <text>Tags</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="236" y="144" w="-1" h="-1" measuredW="99" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recordings%2C%20All</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Link" x="32" y="324" w="-1" h="-1" measuredW="80" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage%20Tags</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::SearchBox" x="865" y="170" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Link" x="858" y="223" w="-1" h="-1" measuredW="37" measuredH="19" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>recording_listen%26bm%3Brecording_listen.bmml%26bm%3Brecording_listen.bmml%26bm%3Brecording_listen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22839%2C199%2C876%2C218%22%20href%3D%22recording_listen.bmml%22%20alt%3D%22recording_listen%22%20id%3D%2250%22/%3E</map>
+        <text>Listen</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::SearchBox" x="853" y="35" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

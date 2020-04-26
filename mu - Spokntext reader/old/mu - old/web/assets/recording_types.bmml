@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="962" measuredH="286" mockupW="939" mockupH="266">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="23" y="20" w="939" h="266" measuredW="418" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>new%20recording%20-%20enter%20text%26bm%3Bnew%20recording%20-%20enter%20text.bmml%26bm%3Bnew%20recording%20-%20enter%20text.bmml%26bm%3Bnew%20recording%20-%20enter%20text.bmml%2Cnew%20recording%20-%20documents%26bm%3Bnew%20recording%20-%20documents.bmml%26bm%3Bnew%20recording%20-%20documents.bmml%26bm%3Bnew%20recording%20-%20documents.bmml%2Cnew%20recording%20-%20web%20page%20or%20documents%26bm%3Bnew%20recording%20-%20web%20page%20or%20documents.bmml%26bm%3Bnew%20recording%20-%20web%20page%20or%20documents.bmml%26bm%3Bnew%20recording%20-%20web%20page%20or%20documents.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C0%2C95%2C27%22%20href%3D%22new%2520recording%2520-%2520enter%2520text.bmml%22%20alt%3D%22new%20recording%20-%20enter%20text%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2295%2C0%2C167%2C27%22%20href%3D%22new%2520recording%2520-%2520documents.bmml%22%20alt%3D%22new%20recording%20-%20documents%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22167%2C0%2C348%2C27%22%20href%3D%22new%2520recording%2520-%2520web%2520page%2520or%2520documents.bmml%22%20alt%3D%22new%20recording%20-%20web%20page%20or%20documents%22%20id%3D%220%22/%3E</map>
+        <selectedIndex>0</selectedIndex>
+        <text>Enter%20Text%2C%20Document%2C%20Web%20Page%20or%20Document%20URL%2C%20Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="32" y="57" w="197" h="-1" measuredW="92" measuredH="17" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>14</size>
+        <text>Select%20a%20Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="32" y="72" w="915" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="34" y="82" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="84" y="82" w="-1" h="-1" measuredW="275" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mike%20%28American%20English-%20premium%20quality%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="32" y="115" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Voice</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="82" y="113" w="-1" h="-1" measuredW="114" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Normal%20Speed</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="211" y="115" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20%20Volume%20%28%25%29%20*</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="305" y="112" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

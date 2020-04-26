@@ -1,0 +1,120 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1075" measuredH="780" mockupW="996" mockupH="772">
+  <controls>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Component" x="79" y="8" w="996" h="772" measuredW="996" measuredH="772" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="48" x="14" y="101" w="264" h="19"/>
+        <override controlID="50" x="763" y="57" w="49" h="21"/>
+        <override controlID="3" x="13" y="130" w="212" h="17"/>
+        <override controlID="36" x="20" y="10" w="125" h="76"/>
+        <override controlID="5" x="0" y="0" w="996" h="772"/>
+        <override controlID="38" x="813" y="58" w="159" h="19"/>
+        <override controlID="10" x="13" y="150" w="983" h="10"/>
+        <override controlID="43" x="980" y="142" w="16" h="630"/>
+        <override controlID="37" x="13" y="91" w="941" h="10"/>
+        <override controlID="51" x="14" y="158" w="952" h="39">
+          <text>You%20have%20five%20options%20for%20creating%20recordings.%20You%20can%20upload%20any%20of%20the%20supported%20document%20formats%2C%20you%20can%20record%20emails%2C%20you%20can%20record%20a%20web%20page%20by%20entering%20in%20its%20location%20URL%2C%20you%20can%20copy%20and%20paste%20the%20text%20you%20want%20recorded%20into%20the%20box%20provided.%20The%20choice%20is%20yours%21</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/page-template.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Component" x="93" y="206" w="939" h="512" measuredW="939" measuredH="512" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C198%2C109%2C225%22%20href%3D%22new%2520recording%2520-%2520enter%2520text.bmml%22%20alt%3D%22new%20recording%20-%20enter%20text%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22109%2C198%2C181%2C225%22%20href%3D%22new%2520recording%2520-%2520documents.bmml%22%20alt%3D%22new%20recording%20-%20documents%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2253%2C198%2C128%2C225%22%20href%3D%22new%2520recording%2520-%2520enter%2520text.bmml%22%20alt%3D%22new%20recording%20-%20enter%20text%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22128%2C198%2C200%2C225%22%20href%3D%22new%2520recording%2520-%2520documents.bmml%22%20alt%3D%22new%20recording%20-%20documents%22%20id%3D%220%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="939" h="512">
+          <selectedIndex>1</selectedIndex>
+          <text>Enter%20Text%2C%20Document%2C%20Web%20Page%20or%20Document%20URL%2C%20Email</text>
+        </override>
+        <override controlID="1" x="9" y="41" w="197" h="17"/>
+        <override controlID="2" x="9" y="58" w="915" h="10"/>
+        <override controlID="3" x="11" y="69" w="32" h="21"/>
+        <override controlID="4" x="61" y="69" w="275" h="24"/>
+        <override controlID="5" x="9" y="105" w="32" h="21"/>
+        <override controlID="6" x="59" y="103" w="114" h="24"/>
+        <override controlID="7" x="188" y="105" w="90" h="21"/>
+        <override controlID="8" x="282" y="102" w="79" h="26"/>
+        <src>./assets/recording_types.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Title" x="107" y="342" w="197" h="-1" measuredW="185" measuredH="17" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>14</size>
+        <text>Upload%20a%20documnet%20to%20record</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::HRule" x="107" y="357" w="562" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="107" y="367" w="-1" h="-1" measuredW="98" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%20to%20convert%20*%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Component" x="689" y="340" w="333" h="196" measuredW="333" measuredH="196" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/recording_options.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Button" x="93" y="729" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>dashboard%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml%26bm%3Bdashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2214%2C721%2C78%2C748%22%20href%3D%22dashboard.bmml%22%20alt%3D%22dashboard%22%20id%3D%2264%22/%3E</map>
+        <text>Record</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Component" x="107" y="600" w="565" h="85" measuredW="565" measuredH="85" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/add%20tags.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Button" x="105" y="390" w="-1" h="-1" measuredW="91" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20File</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="207" y="393" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20File%20Chosen</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Link" x="107" y="423" w="-1" h="-1" measuredW="101" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>upload%20more%20files</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="109" y="451" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%20to%20convert%202%20*%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Button" x="107" y="474" w="-1" h="-1" measuredW="91" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20File</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="209" y="477" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20File%20Chosen</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="107" y="510" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>File%20to%20convert%203%20*%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="105" y="533" w="-1" h="-1" measuredW="91" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20File</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Label" x="207" y="536" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20File%20Chosen</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Paragraph" x="361" y="382" w="270" h="224" measuredW="200" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Note%3A%20Your%20maximum%20file%20upload%20size%20is%2081943040%20.%20If%20your%20file%20is%20larger%20then%2081943040%20and%20you%20want%20to%20record%20it%20upgrade%20your%20account%0A%20%0AThe%20supported%20file%20types%20are%3A%0A%20%0A-%20Acrobat%20PDF%20%28.pdf%29%0A-%20Microsoft%20Word%20%28.doc%29%20and%20%28.docx%29%0A-%20Microsoft%20PowerPoint%20%28.ppt%29%20and%20%28.pptx%29%0A-%20Plain%20text%20%28.txt%29%0A-%20HTML%20%28.htm%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
